@@ -20,7 +20,7 @@ public class GetWeatherRequest {
 	
 
 public static void main(String args[]) {
-	String API_KEY = "e788cf4552a040ad38b0435f2827420a";
+	String API_KEY = "akdsjfbamsdbfadafjsdbf";
 	String LOCATION = "Manchester,us";
 	String urlString = "http://api.openweathermap.org/data/2.5/weather?q="+ LOCATION +"&APPID=" + API_KEY + "&units=imperial";
 	try 
