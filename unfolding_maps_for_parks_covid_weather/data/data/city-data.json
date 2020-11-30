@@ -41,8 +41,3 @@
 {"type":"Feature","properties":{"name":"Cairo", "population":"10.23", "country" : "Egypt", "coastal" : "false"},"geometry":{"type":"Point","coordinates":[31.2333, 30.0500]}}
 ]
 }
-
-// coastal or non-coastal
-// put more coastal cities
-// equal rep!
-// is Athens coastal?
