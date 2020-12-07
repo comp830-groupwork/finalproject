@@ -1,7 +1,5 @@
 unfolding_maps_for_parks_covid_weather
-======================
-
-Week2
+======================================
 
 There are three user stories java files which creates world maps to show US Parks, COVID-19 cases and weather details for any place using Unfolding libraries in Eclipse.
 
@@ -13,5 +11,5 @@ There is one more java file called GetWeatherRequest.java which fetches the weat
 
 Weather Maps shows the weather conditions for any location clicked on the shown map.
 USParks shows all the US parks located on the world map and can be zoomed.
-CovidMaps shows the countries impacted by COVID-19 by showing the total number of cases using different colors shading.
+CovidMaps shows the countries impacted by COVID-19 by showing the total number of cases using  colors transperency.
 
